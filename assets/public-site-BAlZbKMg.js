@@ -1,1 +1,0 @@
-import{n as e}from"./client-CyCQB28P.js";async function t(t){return e.post(`/v1/public/demo-requests`,t)}async function n(){return e.get(`/v1/public/bot-protection`)}async function r(){return e.get(`/v1/public/plans`)}export{r as n,t as r,n as t};
