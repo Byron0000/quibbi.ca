@@ -1,0 +1,1 @@
+function e(e,t=`/knowledge-content`){if(typeof e!=`string`)return t;let n=e.trim();return!n.startsWith(`/`)||n.startsWith(`//`)||/[\r\n]/.test(n)?t:n}export{e as t};
